@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    /* background-color: #BCA37F; */
+}
+
+.din {
+    background-color: gray;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 50px;
+    text-align: center;
+    border-bottom: 5px dashed ghostwhite;
+}
+
+img {
+    width: 30%;
+    padding: 20px;
+    display: block;
+    margin: auto;
+    border-radius: 10%;
+}
+
+.main-teks {
+    padding: 20px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.inti-teks {
+    padding-top: 20px;
+
+}
+
+.judl-teks1 {
+    padding-top: 2%;
+}
+
+.judl-teks2 {
+    padding-top: 2%;
+}
+
+.judl-teks3 {
+    padding-top: 2%;
+}
+
+.judl-teks4 {
+    padding-top: 2%;
+}
+
+.judl-teks5 {
+    padding-top: 2%;
+}
+
+footer {
+    background-color: gray;
+    padding: 35px;
+    border: 5px double red;
+}
+
