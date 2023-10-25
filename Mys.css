@@ -1,0 +1,91 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url(https://www.sundance.com.br/static/site/img/patterns/exclusive_paper.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container {
+    width: 600px;
+    margin: auto;
+    background-color: aliceblue;
+    outline-style: groove;
+}
+
+.judul {
+    margin: 2px 0 0 5px;
+}
+
+.navbar {
+    margin: -5px 0 5px 5px;
+}
+
+.navbar a {
+    padding: 5px;
+}
+
+.img {
+    background-image: url(https://cdn.medcom.id/dynamic/content/2020/07/26/1168947/0oE6yaK4ju.jpg?w=700);
+    height: 350px;
+    background-position: center;
+    background-size: contain;
+    outline-style: groove;
+    outline-color: palegreen;
+    outline-width: 3px;
+}
+
+.konten {
+    margin: 5px;
+    text-align: justify;
+}
+
+.penulis p{
+    margin-top: -18px;
+}
+
+.penulis a {
+    color: red;
+}
+
+
+
+.pj {
+    padding: 0 0 3% 5px;
+}
+
+.pji table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 550px;
+    height: 100px;
+    text-align: center;
+    margin: -20px 0 0 10px;
+}
+
+.pji tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+.pji th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+}
+
+.pji tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+footer {
+    background-color: antiquewhite;
+    text-align: center;
+}
